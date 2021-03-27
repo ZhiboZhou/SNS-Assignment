@@ -1,2 +1,0 @@
-# SNS-Assignment
-SNS assignment
